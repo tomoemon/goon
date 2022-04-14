@@ -5,5 +5,5 @@ go 1.9
 require (
 	github.com/golang/protobuf v1.3.1
 	golang.org/x/crypto v0.0.0-20190513172903-22d7a77e9e5f
-	google.golang.org/appengine/v2 v2.0.0-rc2
+	google.golang.org/appengine/v2 v2.0.1
 )
